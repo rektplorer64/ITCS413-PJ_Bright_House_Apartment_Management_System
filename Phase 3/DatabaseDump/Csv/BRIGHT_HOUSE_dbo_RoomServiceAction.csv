@@ -1,0 +1,10 @@
+roomServiceNumber,serviceName,roomServiceDescription
+1,Table wiping,A Cleaning Personnel uses a cloth to clean all strains and dust from the top of all table in the room.
+2,Floor sweeping,A Cleaning Personnel uses a broom to sweep to clean dust and particles the floor.
+3,Floor mopping,A Cleaning Personnel uses a mop drenched with cleanser to sweep to clean the floor.
+4,Changing bed sheet and pillowcases,A Cleaning Personnel replaces the entire bed sheet and pillowcases with cleaned ones.
+5,Changing towel,A Cleaning Personnel replaces all towels in a customer room with cleaned ones.
+6,Bathroom cleaning,A Cleaning Personnel proceeds to entirely clean the floor and sanitary ware inside the toilet of a customer room.
+7,Restocking supply,"A Cleaning Personnel proceeds to restock supply in the customer room. A restock can include consumable such as coffee, water bottle, etc. "
+8,Adding supply,"A Cleaning Personnel proceeds to add new supply to the customer room by the customer request.
+ "
