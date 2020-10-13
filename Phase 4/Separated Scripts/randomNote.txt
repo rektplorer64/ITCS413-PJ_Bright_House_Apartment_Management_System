@@ -1,0 +1,52 @@
+List the details of **branches** in a given area of the Eastern region of Thailand.
+List all details of **employees** given a employee ID, name, surname, or branch name.
+Identify the total number of **employees** in all branches.
+Identify the average salary of **employees** in each position, gender, branch, ordered in ascending order.
+List all active branch **managers** ordered by branch address.
+List **employee** details by a given position, name, ID, and Date of birth.
+Identify the total **employee** payroll for day, week or month.
+Identify the total number of unique **customers** that have ever visited at least one branch.
+List unique **customers** that have ever visited at least one branch.
+Identify the average age of **customers** from each nationality.
+List **customer** details grouped by a given branch.
+List **customer** details by a given duration from their last visited time ordered by the duration.
+List details of **customers** who recently stay more than one branch of Bright House ordered by descending order.
+List details of **supplies** that being used the most by any branches.
+Identify the average number of **supplies** left at the end of every week grouped by each the name of the supply.
+List room details with a status of **rental** by a given branch or area.
+List all **rooms** that currently has guests staying grouped by room size.
+List the details of customer **payments** along with full customer name and nationality that has the top-10-most transaction amounts in a given month.
+Identify the average **customer** **payment** amount grouped by transaction type.
+Identify the average amount of money in **customer payments** grouped by customer's nationality, and ordered by month.
+Identify the **customer payment** that has the highest amount of money grouped by month, customer's nationality.
+List the **customer payment** by a given rental number and customer name.
+Identify the average amount of **customer** **payments** grouped by month.
+Identify the frequency of **rental** grouped by month.
+List all **rentals** that will be **expired** within a given time range at a branch.
+List all **rooms** that will be **free** within a given time range at any branch in a case the customer must be redirected to another branch.
+List all **rentals** in any branches associated with a given **customer**.
+List all **room services** done to a specified **room** within a branch.
+List all **room services** done to a specified **rental** within a branch.
+Identify the average duration of **customer rentals** within any branch.
+Identify the average duration of stay of all **customer** Visa within any branch.
+List all **branches** ordered by the total number of free rooms within a given time range.
+Identify **months** that has high amount of reservations.
+Identify **months** that has high amount of income.
+Identify difference between income and expense during high and low seasons.
+List **feedback** reported by **customers** categorized by branches.
+Identify the total number of customer **feedback** in each branch.
+Identify the total number of customer **feedback** grouped by categories.
+Identify the average number of customer **feedback** per rental.
+List customer **feedback** from all branches in a given period of time.
+List all **payrolls** made within a given period of time.
+List all **employees** that has total **payroll** with in a given threshold range.
+Identify the average of employee **payrolls** in a given time range.
+List all **maintenance** instances of a branch based on a given maintenance status.
+For each branch, list all supplies used in all **maintenance** so far.
+List all **external operatives** that involved in any **maintenance** instance.
+List all completed **maintenance** instances that took more than a given time duration to complete.
+List all on-going **maintenance** instances that take more than a given time duration so far.
+List all on-going **purchasing** instance and its items.
+Identify the average of a given item out of all **purchasing** instances that contain it.
+Identify the total sum of money used in **purchasing** instances within a given time range.
+List all **items** that is included in any **purchasing** instances in a given time range.
